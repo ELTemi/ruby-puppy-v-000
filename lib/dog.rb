@@ -5,7 +5,7 @@ class Dog
     @@all.clear
   end
 
-  def initializes(name)
+  def initialize(name)
     @name = name
   end
 end
